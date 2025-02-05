@@ -1,5 +1,5 @@
 # Stepik-ml-contest
-Prediction of success of students in online courses
+Prediction of Students' Success in an Online Course Using a Random Forest Classifier
 
 ### Problem Description
 
