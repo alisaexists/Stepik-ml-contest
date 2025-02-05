@@ -1,5 +1,6 @@
 # Stepik-ml-contest
 Prediction of Students' Success in an Online Course Using a Random Forest Classifier
+**Used Python Libraries:** pandas, sklearn, numpy, matplotlib, seaborn 
 
 ### Problem Description
 
